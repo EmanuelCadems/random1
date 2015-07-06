@@ -1,0 +1,2 @@
+This file is in the remote branch issue-1
+This is for try --track option in git co --track remotename/branchname
